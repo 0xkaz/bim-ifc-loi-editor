@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "target": "IfcSpace",
+      "requireAttribute": { "name": "Name", "valueType": "string" },
+      "severity": "error",
+      "description": "Spaces must have a human-readable Name attribute."
+    },
+    {
+      "target": "IfcSpace",
+      "requireProperty": {
+        "pset": "Pset_SpaceCommon",
+        "name": "CeilingHeight",
+        "valueType": "number",
+        "min": 2200
+      },
+      "severity": "error",
+      "description": "Spaces should declare a numeric ceiling height in millimetres."
+    }
+  ]
+}
