@@ -12,6 +12,8 @@ Live demo:
 https://bim-ifc-loi-editor.0xkaz.com
 ```
 
+![bim-ifc-loi-editor screenshot](assets/screenshot.png)
+
 ## Features
 
 - Open an IFC file from disk, drag and drop it, or load the bundled sample.

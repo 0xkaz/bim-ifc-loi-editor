@@ -12,6 +12,8 @@ IFC STEP ファイルをブラウザで読み込み、ルールに基づく LOI 
 https://bim-ifc-loi-editor.0xkaz.com
 ```
 
+![bim-ifc-loi-editor のスクリーンショット](assets/screenshot.png)
+
 ## 主な機能
 
 - IFC ファイルをファイル選択、ドラッグ&ドロップ、または同梱サンプルから読み込み
